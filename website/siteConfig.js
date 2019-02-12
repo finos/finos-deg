@@ -2,45 +2,19 @@
 // site configuration options.
 
 const users = [
-  { caption: 'William Quan, Co-Chair (JPM)', pinned: true },
-  { caption: 'Hammad Akbar, Co-Chair (Citi)', pinned: true },
-  { caption: 'Ayaz Haji, Participant (GS)' },
-  { caption: 'Oli Bage, Participant (MS)' },
-  { caption: 'Nilesh Bhattad, Participant (JPM)' },
-  { caption: 'Peter Smulovic, Participant (MS)' },
-  { caption: 'Johan Sandersson, Participant (FactSet)' },
-  { caption: 'Hershal Shah, Participant (IHS Markit)' },
-  { caption: 'Frank Tarsillo, Participant (IHS Markit)' },
-  { caption: 'Bruce Skingle, Participant (Symphony)' },
-  { caption: 'Mario Orphanou, Participant (Symphony)' },
-  { caption: 'Lawrence Miller, Participant	(Symphony)' },
-  { caption: 'Mike Harmon, Participant (Symphony)' },
-  { caption: 'Aaron Williamson, Participant (FINOS)' },
-  { caption: 'Rob Underwood, Facilitator (FINOS)' },
-  { caption: 'Maurizio Pillitu, Facilitator (FINOS)' },
-  { caption: 'Gabriele Columbro,Facilitator (FINOS)' },
-  { caption: 'Nick Kolba, Participant (OpenFin)' },
-  { caption: 'Espen Overbye, Participant (OpenFin)' },
-  { caption: 'Jerry Savoretti, Participant	(Portware - FactSet)' },
-  { caption: 'David Landisman, Participant	(Portware - FactSet)' },
-  { caption: 'Justin Peterson, Participant	(TradeWeb)' },
-  { caption: 'Svyatoslav (Slava) Kryukov, Participant (DB)' },
-  { caption: 'Tim Kolecke, Participant	(Citadel)' },
-  { caption: 'Mirjana Pantic, Participant (UBS)' },
-  { caption: 'Aadi Thayyar, Participant (AllianceBernstein)' },
-  { caption: 'John Lin, Participant (AllianceBernstein)' },
-  { caption: 'Kiran Jawal, Participante (AllianceBernstein)' },
-  { caption: 'Katia Banina, Participant (Refinitiv)' }
+  { caption: 'Frank Tasillo, Co-Chair (IHS Markit)', pinned: true },
+  { caption: 'Amber Baldet, Co-Chair (Clovyr)', pinned: true },
+  { caption: 'Patrick Nielsen, Participant (Clovyr)'  }
 ];
 
 const siteConfig = {
-  title: 'FINOS Financial Objects', // Title for your website.
-  tagline: 'Drive adoption of new and existing Financial Objects Standards that support common industry workflows and use cases',
-  url: 'https://fo-test.finos.org',
-  cname: 'fo-test.finos.org',
+  title: 'FINOS Decentralized Ecosystem Growth', // Title for your website.
+  tagline: 'Created to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems.',
+  url: 'https://finos-deg.github.io', // This will change to https://decentralized.finos.org
+  cname: 'finos-deg.github.io', // decentralized.finos.org
   baseUrl: '/',
-  projectName: 'finos-fo',
-  organizationName: 'finos-fo',
+  projectName: 'finos-deg.github.io',
+  organizationName: 'finos-deg.github.io',
   headerLinks: [
     {doc: 'fo-intro', label: 'Intro'},    
     {doc: 'fo-library', label: 'Object Library'},
@@ -88,7 +62,7 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  repoUrl: 'https://github.com/finos-fo/finos-fo'
+  repoUrl: 'https://github.com/finos-deg/finos-deg.github.io'
 };
 
 module.exports = siteConfig;
