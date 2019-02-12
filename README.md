@@ -2,7 +2,7 @@
 [![FINOS - Incubating](https://cdn.rawgit.com/finos/contrib-toolbox/master/images/badge-incubating.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Incubating)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# FINOS Financial Objects
+# FINOS DEG
 
 FINOS Decentralized Ecosystem is a community-led initiative that ...
 
