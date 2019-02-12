@@ -11,7 +11,7 @@ must be made with a
 in place, and there are [additional legal requirements](https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/75530375/Legal+Requirements)
 that must also be met.**
 
-As a result, PRs submitted to the FINOS Financial Objects project cannot be accepted until you have a CLA in place with the Foundation.
+As a result, PRs submitted to the FINOS Dcentralized Ecosytem Growht Program cannot be accepted until you have a CLA in place with the Foundation.
 
 # Contributing Issues
 
