@@ -10,11 +10,11 @@ const users = [
 const siteConfig = {
   title: 'FINOS Decentralized Ecosystem Growth', // Title for your website.
   tagline: 'Created to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems.',
-  url: 'https://finos-deg.github.io', // This will change to https://decentralized.finos.org
+  url: 'https://decentralized.finos.org', // This will change to https://decentralized.finos.org
   cname: 'decentralized.finos.org',
   baseUrl: '/',
   projectName: 'finos-deg',
-  organizationName: 'finos-deg.github.io',
+  organizationName: 'finos-deg',
   headerLinks: [
     {doc: 'fo-intro', label: 'Intro'},    
     {doc: 'fo-library', label: 'Object Library'},
