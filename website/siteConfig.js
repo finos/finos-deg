@@ -8,16 +8,15 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'FINOS Decentralized Ecosystem Growth', // Title for your website.
-  tagline: 'Created to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems.',
-  url: 'https://decentralized.finos.org', // This will change to https://decentralized.finos.org
+  title: 'FINOS DEG',
+  tagline: 'Decentralized Ecosystem Growth',
+  url: 'https://decentralized.finos.org',
   cname: 'decentralized.finos.org',
   baseUrl: '/',
   projectName: 'finos-deg',
   organizationName: 'finos-deg',
   headerLinks: [
-    {doc: 'fo-intro', label: 'Intro'},    
-    {doc: 'fo-library', label: 'Object Library'},
+    {doc: 'why-deg', label: 'Why Decentralized'},    
     {page: 'getinvolved', label: 'Get Involved'}
   ],
   headerIcon: 'img/finos-white.png',
@@ -51,8 +50,8 @@ const siteConfig = {
 
   twitterUsername: 'finos',
   // Open Graph and Twitter card images.
-  ogImage: 'img/fo-logo-white.gif',
-  twitterImage: 'img/fo-logo-white.gif',
+  ogImage: 'img/deg-logo-white.png',
+  twitterImage: 'img/deg-logo-white.png',
 
   // Show documentation's last contributor's name.
   enableUpdateBy: true,

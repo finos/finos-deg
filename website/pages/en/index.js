@@ -64,8 +64,8 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href={docUrl('fo-intro')}>Get Started</Button>
-            <Button href="https://github.com/finos-fo/finos-fo.github.io">GitHub</Button>
+            <Button href={docUrl('why-deg')}>Why Decentralized</Button>
+            <Button href="https://github.com/finos-deg/finos-deg">GitHub</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -95,9 +95,7 @@ class Index extends React.Component {
       <div
         className="productShowcaseSection paddingBottom"
         style={{textAlign: 'center'}}>
-        <h2>Financial Objects Hierachy</h2>
-        <MarkdownBlock>Below is an example diagram showing how financial objects can be used and referenced.</MarkdownBlock>
-        <img alt="Financial Objects Hierarchy" src="img/fo_diagram_transparent.png"/>
+        <MarkdownBlock>...</MarkdownBlock>
       </div>
     );
 
@@ -119,7 +117,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              'This is another description of how this project is useful',
+              'Welcome to the collaboration space for the Decentralized Ecosystem Growth Program!  This Program was formed to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems. Best practices and promising architectures may be proposed and circulated, but the goal is not to create top-down standards documents. Instead, we will work together to ensure there is concrete code, open-sourced both within FINOS and across various member and non-member firms’ repositories, which work together to reduce time-to-market for decentralized financial applications.',
             image: `${baseUrl}img/docusaurus.svg`,
             imageAlign: 'right',
             title: 'Description',
@@ -132,7 +130,7 @@ class Index extends React.Component {
       <Block background="light">
         {[
           {
-            content: 'Talk about learning how to use this',
+            content: 'Welcome to the collaboration space for the Decentralized Ecosystem Growth Program!  This Program was formed to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems. Best practices and promising architectures may be proposed and circulated, but the goal is not to create top-down standards documents. Instead, we will work together to ensure there is concrete code, open-sourced both within FINOS and across various member and non-member firms’ repositories, which work together to reduce time-to-market for decentralized financial applications.',
             image: `${baseUrl}img/docusaurus.svg`,
             imageAlign: 'right',
             title: 'Learn How',
@@ -145,28 +143,22 @@ class Index extends React.Component {
       <Block background="light" layout="fourColumn">
         {[
           {
-            content: 'Ability to define and pass through a structured object between buy-side, sell-side and financial eco-system partners. [Read More](docs/interfaces/trade)',
+            content: 'Created to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems.',
             image: `${baseUrl}img/check-box.svg`,
             imageAlign: 'top',
-            title: 'Trade Object',
+            title: 'Charter',
           },
           {
-            content: 'Enabled and triggered from a blotter or similar application to place an order. [Read More]docs/interfaces/order)',
+            content: 'Develop tools to seamlessly link data from different trusted parties, e.g. validate counterparties, credit and settlement.',
             image: `${baseUrl}img/check-box.svg`,
             imageAlign: 'top',
-            title: 'Order Object',
+            title: 'Tools',
           },
           {
-            content: 'An extension of the trade object by identifying the additional attributes over and above the trade object. [Read More](docs/interfaces/rfq)',
+            content: 'Drive ecosystem growth with engagement from relevant groups to facilitate cooperation and test interactivity',
             image: `${baseUrl}img/check-box.svg`,
             imageAlign: 'top',
-            title: 'RFQ Object',
-          },
-          {
-            content: 'An object with standardized names would allow for the use of several IDs to define the instrument. [Read More](docs/interfaces/instrument)',
-            image: `${baseUrl}img/check-box.svg`,
-            imageAlign: 'top',
-            title: 'Instrument Object'
+            title: 'Community',
           }
         ]}
       </Block>
@@ -189,7 +181,7 @@ class Index extends React.Component {
 
       return (
         <div className="productShowcaseSection paddingBottom">
-          <h2>Who is participating to Financial Objects?</h2>
+          <h2>Who is participating to Decentralized Ecosystem Growth?</h2>
           <div className="logos">{showcase}</div>
           <div className="more-users">
             <a className="button" href={pageUrl('users.html')}>
@@ -205,11 +197,10 @@ class Index extends React.Component {
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
           <Features />
-          <FeatureCallout />
-          {/* <LearnHow />
-          <TryOut />
+          {/* <LearnHow /> */}
+          {/* <TryOut /> */}
           <Description />
-          <Showcase /> */}
+          {/* <Showcase /> */}
         </div>
       </div>
     );

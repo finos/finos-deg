@@ -35,14 +35,8 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('fo-intro', this.props.language)}>
-              Getting Started
-            </a>
-            <a href={this.docUrl('why-fo', this.props.language)}>
-              Why FINOS Financial Objects
-            </a>
-            <a href={this.docUrl('fo-library', this.props.language)}>
-              Objects Reference library
+            <a href={this.docUrl('why-deg', this.props.language)}>
+              Why FINOS Decentralized Ecosystem Growth
             </a>
           </div>
           <div>
@@ -54,7 +48,7 @@ class Footer extends React.Component {
               FINOS
             </a>
             <a
-              href="https://groups.google.com/a/finos.org/forum/#!forum/fo-financial-objects"
+              href="https://groups.google.com/a/finos.org/forum/#!forum/deg"
               target="_blank"
               rel="noreferrer noopener">
               Mailing List

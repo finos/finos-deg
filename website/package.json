@@ -8,8 +8,7 @@
     "test": "node ../src/samples/printout.ts",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
-    "rename-version": "docusaurus-rename-version",
-    "typedoc": "./run-typedoc.sh"
+    "rename-version": "docusaurus-rename-version"
   },
   "devDependencies": {
     "docusaurus": "1.7.1",

@@ -1,48 +1,12 @@
 {
   "docs": {
     "Getting Started": [
-      "fo-intro",
-      "why-fo",
-      "fo-library"
-    ],
-    "Functional Objects": [
-      "interfaces/rfq",
-      "interfaces/rfqresponse",
-      "interfaces/order",
-      "interfaces/orderresponse",
-      "interfaces/irs",
-      "interfaces/trade"],
-    "Reference Objects": [
-      "interfaces/instrument",
-      "interfaces/instrumentlist",
-      "interfaces/contact",
-      "interfaces/contactlist",
-      "interfaces/organization",
-      "interfaces/position",
-      "interfaces/portfolio",
-      "interfaces/country" ]
+      "why-deg"
+    ]
   },
   "interfaces": {
     "Getting Started": [
-      "fo-intro",
-      "why-fo",
-      "fo-library"
-    ],
-    "Functional Objects": [
-      "interfaces/rfq",
-      "interfaces/rfqresponse",
-      "interfaces/order",
-      "interfaces/orderresponse",
-      "interfaces/irs",
-      "interfaces/trade"],
-    "Reference Objects": [
-      "interfaces/instrument",
-      "interfaces/instrumentlist",
-      "interfaces/contact",
-      "interfaces/contactlist",
-      "interfaces/organization",
-      "interfaces/position",
-      "interfaces/portfolio",
-      "interfaces/country" ]
+      "why-deg"
+    ]
   }
 }

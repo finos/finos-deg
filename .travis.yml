@@ -20,7 +20,7 @@ before_install:
 
 script:
   # Build the website
-  - cd website && yarn install && yarn run typedoc && yarn run build && cd -
+  - cd website && yarn install && yarn run build && cd -
 
 deploy:
   - provider: pages
