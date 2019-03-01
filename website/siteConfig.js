@@ -8,16 +8,16 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'FINOS DEG',
-  tagline: 'Decentralized Ecosystem Growth',
+  title: 'Decentralized Ecosystem Growth',
+  tagline: 'FINOS DEG - Open source for open finance',
   url: 'https://decentralized.finos.org',
   cname: 'decentralized.finos.org',
   baseUrl: '/',
   projectName: 'finos-deg',
   organizationName: 'finos-deg',
   headerLinks: [
-    {doc: 'why-deg', label: 'Why Decentralized'},    
-    {page: 'getinvolved', label: 'Get Involved'}
+    {doc: 'learn-more', label: 'Learn More'},
+    {doc: 'projects', label: 'Projects'}
   ],
   headerIcon: 'img/finos-white.png',
   footerIcon: 'img/finos.png',
