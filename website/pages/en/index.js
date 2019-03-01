@@ -64,7 +64,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href={docUrl('why-deg')}>Why Decentralized</Button>
+            <Button href={docUrl('projects')}>Call for Projects</Button>
             <Button href="https://github.com/finos-deg/finos-deg">GitHub</Button>
           </PromoSection>
         </div>
@@ -103,10 +103,10 @@ class Index extends React.Component {
       <Block id="try">
         {[
           {
-            content: 'Talk about trying this out',
-            image: `${baseUrl}img/docusaurus.svg`,
+            content: "<p>Discussion happens on the mailing list. <br>Send a blank <a href='mailto:deg+subscribe@finos.org'>email</a> to join or read the <a href='https://groups.google.com/a/finos.org/forum/#!forum/deg'>archives</a>.</p><p>We meet virtually once per quarter to share progress and exchange ideas, and you don't need to be a member to join the conversation. Check the <a href='https://calendar.google.com/calendar/embed?src=finos.org_fac8mo1rfc6ehscg0d80fi8jig%40group.calendar.google.com&ctz=America%2FNew_York'>calendar</a> for details.</p>",
+            image: `${baseUrl}img/deg-logo-white.png`,
             imageAlign: 'left',
-            title: 'Try it Out',
+            title: 'The Decentralized Ecosystem Growth program is a welcoming place for people interested in decentralized finance to meet, learn, and build.',
           },
         ]}
       </Block>
@@ -117,10 +117,10 @@ class Index extends React.Component {
         {[
           {
             content:
-              'Welcome to the collaboration space for the Decentralized Ecosystem Growth Program!  This Program was formed to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems. Best practices and promising architectures may be proposed and circulated, but the goal is not to create top-down standards documents. Instead, we will work together to ensure there is concrete code, open-sourced both within FINOS and across various member and non-member firms’ repositories, which work together to reduce time-to-market for decentralized financial applications.',
-            image: `${baseUrl}img/docusaurus.svg`,
+              "Welcome to the collaboration space for the Decentralized Ecosystem Growth Program!  This Program was formed to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems. Best practices and promising architectures may be proposed and circulated, but the goal is not to create top-down standards documents. Instead, we will work together to ensure there is concrete code, open-sourced both within FINOS and across various member and non-member firms' repositories, which work together to reduce time-to-market for decentralized financial applications.",
+            image: `${baseUrl}img/deg-logo-white.png`,
             imageAlign: 'right',
-            title: 'Description',
+            title: 'this one',
           },
         ]}
       </Block>
@@ -130,10 +130,10 @@ class Index extends React.Component {
       <Block background="light">
         {[
           {
-            content: 'Welcome to the collaboration space for the Decentralized Ecosystem Growth Program!  This Program was formed to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems. Best practices and promising architectures may be proposed and circulated, but the goal is not to create top-down standards documents. Instead, we will work together to ensure there is concrete code, open-sourced both within FINOS and across various member and non-member firms’ repositories, which work together to reduce time-to-market for decentralized financial applications.',
-            image: `${baseUrl}img/docusaurus.svg`,
+            content: "our mission",
+            image: `${baseUrl}img/deg-logo-white.png`,
             imageAlign: 'right',
-            title: 'Learn How',
+            title: 'Mission',
           },
         ]}
       </Block>
@@ -143,22 +143,22 @@ class Index extends React.Component {
       <Block background="light" layout="fourColumn">
         {[
           {
-            content: 'Created to aggregate, develop, and integrate tools that facilitate coordination of decentralized applications across financial firms and existing ecosystems.',
+            content: "We build tools that make decentralized finance work for banks, businesses, regulators, clients, and customers.",
             image: `${baseUrl}img/check-box.svg`,
             imageAlign: 'top',
-            title: 'Charter',
+            title: 'Develop Tools',
           },
           {
-            content: 'Develop tools to seamlessly link data from different trusted parties, e.g. validate counterparties, credit and settlement.',
+            content: "We identify long-standing challenges in the financial industry that we can solve in new ways.",
             image: `${baseUrl}img/check-box.svg`,
             imageAlign: 'top',
-            title: 'Tools',
+            title: 'Think Differently',
           },
           {
-            content: 'Drive ecosystem growth with engagement from relevant groups to facilitate cooperation and test interactivity',
+            content: "We learn from each other and we create space for diverse perspectives to flourish.",
             image: `${baseUrl}img/check-box.svg`,
             imageAlign: 'top',
-            title: 'Community',
+            title: 'Build Community',
           }
         ]}
       </Block>
@@ -197,9 +197,9 @@ class Index extends React.Component {
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
           <Features />
-          {/* <LearnHow /> */}
-          {/* <TryOut /> */}
-          <Description />
+          <TryOut />
+          {/* <LearnHow />*/}
+          {/* <Description />*/}
           {/* <Showcase /> */}
         </div>
       </div>
