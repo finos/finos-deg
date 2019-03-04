@@ -17,6 +17,6 @@ Join us by registering on [Eventbrite](https://www.eventbrite.com/e/open-source-
 
 
 ## Suggested Reading List (A Little Cyrpto Primer)
-* [Shamir’s Secret Sharing — A numeric example walkthrough](https://medium.com/@apogiatzis/shamirs-secret-sharing-a-numeric-example-walkthrough-a59b288c34c4)
+* [Certificate Transparency](https://www.certificate-transparency.org/how-ct-works)
 * [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
 * [10 Rules for the Secure Use of Cyptopcurrency Hardware Wallets](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)
