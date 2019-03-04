@@ -17,7 +17,8 @@ const siteConfig = {
   organizationName: 'finos-deg',
   headerLinks: [
     {doc: 'learn-more', label: 'Learn More'},
-    {doc: 'projects', label: 'Projects'}
+    {doc: 'projects', label: 'Projects'},
+    { blog: true, label: 'News' },
   ],
   headerIcon: 'img/finos-white.png',
   footerIcon: 'img/finos.png',
