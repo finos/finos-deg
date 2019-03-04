@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Decentralized Ecosystem Growth Blog</title>
+        <link>https://decentralized.finos.org/blog</link>
+        <description>The best place to stay up-to-date with the latest Decentralized Ecosystem Growth news and events.</description>
+        <lastBuildDate>Fri, 01 Mar 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Decentralized Ecosystem Growth Blog</title>
+            <url>https://decentralized.finos.org/img/finos-white.png</url>
+            <link>https://decentralized.finos.org/blog</link>
+        </image>
+        <copyright>Copyright © 2019 FINOS - The Fintech Opensource Foundation</copyright>
+        <item>
+            <title><![CDATA[Open Source in Fintech Meetup - March 5, 2019]]></title>
+            <link>https://decentralized.finos.org/blog/2019/03/01/DEG-Meetup-On-March-5.html</link>
+            <guid>https://decentralized.finos.org/blog/2019/03/01/DEG-Meetup-On-March-5.html</guid>
+            <pubDate>Fri, 01 Mar 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>FINOS' next Open Source in Fintech Event Series Meetup is Tuesday, March 5th at <a href="https://www.moodys.com/">Moody's</a>. The theme of the evening will be FINOS' newly launched Decentralized Ecosytem Growth program for which I serve as Program Management Committee Lead.</p> <p>Join us by r...</p>]]></description>
+        </item>
+    </channel>
+</rss>

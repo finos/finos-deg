@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://decentralized.finos.org/blog</id>
+    <title>Decentralized Ecosystem Growth Blog</title>
+    <updated>2019-03-01T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://decentralized.finos.org/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Decentralized Ecosystem Growth news and events.</subtitle>
+    <logo>https://decentralized.finos.org/img/finos-white.png</logo>
+    <rights>Copyright © 2019 FINOS - The Fintech Opensource Foundation</rights>
+    <entry>
+        <title type="html"><![CDATA[Open Source in Fintech Meetup - March 5, 2019]]></title>
+        <id>https://decentralized.finos.org/blog/2019/03/01/DEG-Meetup-On-March-5.html</id>
+        <link href="https://decentralized.finos.org/blog/2019/03/01/DEG-Meetup-On-March-5.html">
+        </link>
+        <updated>2019-03-01T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>FINOS' next Open Source in Fintech Event Series Meetup is Tuesday, March 5th at <a href="https://www.moodys.com/">Moody's</a>. The theme of the evening will be FINOS' newly launched Decentralized Ecosytem Growth program for which I serve as Program Management Committee Lead.</p> <p>Join us by r...</p>]]></summary>
+        <author>
+            <name>Amber Baldet</name>
+            <uri>https://twitter.com/AmberBaldet</uri>
+        </author>
+    </entry>
+</feed>
