@@ -17,6 +17,6 @@ Join us by registering on [Eventbrite](https://www.eventbrite.com/e/open-source-
 
 
 ## Suggested Reading List (A Little Cyrpto Primer)
-* [Certificate Transparency](https://www.certificate-transparency.org/how-ct-works)
+* [Transparent Logs for Skeptical Clients](https://research.swtch.com/tlog)
 * [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
 * [10 Rules for the Secure Use of Cyptopcurrency Hardware Wallets](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)
