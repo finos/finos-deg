@@ -16,7 +16,7 @@ Join us by registering on [Eventbrite](https://www.eventbrite.com/e/open-source-
 * Registraton: [Eventbrite](https://www.eventbrite.com/e/open-source-in-fintech-event-series-march-2019-tickets-56667849062)
 
 
-## Suggested Reading List (A Little Cyrpto Primer)
+## Suggested Reading List
 * [Transparent Logs for Skeptical Clients](https://research.swtch.com/tlog)
 * [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
 * [10 Rules for the Secure Use of Cyptopcurrency Hardware Wallets](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)
