@@ -15,8 +15,10 @@ Join us by registering on [Eventbrite](https://www.eventbrite.com/e/open-source-
 * Time: 6pm - 8:30
 * Registraton: [Eventbrite](https://www.eventbrite.com/e/open-source-in-fintech-event-series-march-2019-tickets-56667849062)
 
+## Meetup Presentation Material
+* [Google Slide Deck](https://docs.google.com/presentation/d/1NEO8zp_8Towuo7TD6OHhJiYXRDqhXyJhJGgzZRIajA8/edit#slide=id.g51ce58e5db_0_307)
 
-## Suggested Reading List
+## Reading List
 * [Transparent Logs for Skeptical Clients](https://research.swtch.com/tlog)
 * [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
 * [10 Rules for the Secure Use of Cyptopcurrency Hardware Wallets](https://blog.trailofbits.com/2018/11/27/10-rules-for-the-secure-use-of-cryptocurrency-hardware-wallets/)
