@@ -7,8 +7,7 @@ This website was created with [Docusaurus](https://docusaurus.io/) using [FINOS 
 Make sure you can execute `npm -v` from your terminal.
 
 ```
-git clone https://github.com/finos-fo/finos-fo.github.io.git
-cd finos-fo.github.io/website
-npm run typedoc
+git clone https://github.com/finos-deg/finos-deg.github.io.git
+cd finos-deg.github.io/website
 npm start
 ```
